@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-router-dom": "^6.4.2",
+    "react-tooltip": "^4.4.0"
+  }
+}
